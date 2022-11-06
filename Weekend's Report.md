@@ -80,7 +80,7 @@
 - 이은혁 : :white_check_mark: ~~sqld 합격하기, 근력운동 하루 최소 30분 하기~~
 - 고영석 : :white_check_mark: ~~sqld 공부하기, 진도 따라가기, 알고리즘 3개 이상 풀고 블로그에 올리기~~
 - 김지애 : :white_check_mark: ~~sqld 합격하기, java 공부 시작하기, 진도 따라가기~~
-- 김지오 : :white_check_mark: ~~sqld 공부한거 블로그 올리기, sqld 합격, 다음주 너무 힘들지 않게 수업 ~~
+- 김지오 : :white_check_mark: ~~sqld 공부한거 블로그 올리기, sqld 합격, 다음주 너무 힘들지 않게 수업~~
 - 나혜승 : :white_check_mark: ~~sqld 합격하기, 알고리즘 두개 풀기~~
 - 이수연 : :white_check_mark: ~~sqld 합격하기, 1일 1알고리즘, 1일 1커밋~~
 - 이문삼 : :white_check_mark: ~~sqld 합격하기, 리액트 공부하기~~
